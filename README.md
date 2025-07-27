@@ -6,6 +6,4 @@
 
 - But you can run PowerShell scripts by setting your policy rule to `RemoteSigned`.
 
-- After checking the current execution policy rule with `Get-ExecutionPolicy` , if the policy setting has set to other than `RemoteSigned` setting.
-
-- You can change it via `Set-ExecutionPolicy`.
+- After checking the current execution policy rule with `Get-ExecutionPolicy` , if the policy setting has set to other than `RemoteSigned` setting, you can change it via `Set-ExecutionPolicy`.
